@@ -1,0 +1,67 @@
+.departamento{
+        text-align: center;
+    color: blue;
+  padding: 3px 10px;
+  border: violet 5px dashed;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+    text-transform: uppercase;
+    }
+.fondo{
+    background-image: url("Bandera.jpeg");
+    background-repeat: repeat-y;
+    background-position: center top;
+    }
+.tradiciones{
+ color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px darkgreen;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+} 
+.cajas{
+  align-items:center;
+    display:table;
+  height: 100px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.Santaneada{
+    background-color: red;
+}
+.SS{
+    background-color: blue;
+}
+.LP{
+    background-color: green;
+}
+
+.Comida{
+    border: 10px outset red;
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+}
+.Hornazo{
+    background-color: blue;
+}
+.Picadillo {
+    background-color: green;
+}
+.Pig{
+    background-color: red;
+}
+
+.Territorio{  
+    color: blue;
+    text-decoration: overline underline;
+    text-align: center;
+}
+
+.bandera{
+    color: darkgreen;
+    text-decoration: overline underline;
+    text-align: center;
+}
